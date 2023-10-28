@@ -1,4 +1,5 @@
-This repository contains the dataset used for the 'Complete History Of The NBA' interactive application. The data is periodically updated and sourced from Basketball-Reference.com. The main dataset, 'nbaallelo.csv,' includes the following variables:
+This repository contains the dataset used for the 'Complete History Of The NBA' interactive application with this URL"https://raw.githubusercontent.com/fivethirtyeight/data/master/nba-elo/nbaallelo.csv".
+The data is periodically updated and sourced from Basketball-Reference.com. The main dataset, 'nbaallelo.csv,' includes the following variables:
 
 | Variable        | Definition                                                |
 |-----------------|-----------------------------------------------------------|
