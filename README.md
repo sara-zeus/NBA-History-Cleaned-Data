@@ -21,4 +21,4 @@ opp_elo_n: Opponent Elo rating following the game.
 game_location: Game location (Home, Away, or Neutral).
 game_result: Win or loss for the team in the team_id column.
 forecast: Elo-based chances of winning for the team in the team_id column, based on Elo ratings and game location.
-notes: Additional information. 
+notes: Additional information.
